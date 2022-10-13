@@ -16,7 +16,4 @@ for elementlist in list:
     if elementlist.text == "python framework list for automation":
         elementlist.click()
         break
-
 driver.quit()
-
-
